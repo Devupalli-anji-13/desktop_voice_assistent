@@ -1,0 +1,8 @@
+requests
+python-dotenv
+groq
+SpeechRecognition
+PyAudio
+pywin32
+PyAutoGUI
+pyperclip
